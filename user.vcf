@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Efimov;Alexander;;;
 FN: Alexander  Efimov 
-ORG:Sberbank;
+ORG:Freelance;
 TITLE:Junior DevOps Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:loperr@loperr.tech
 TEL;type=WORK;type=VOICE:+79859486341
-item1.ADR;type=WORK;type=pref:;;Kutuzovskiy prosp.,32k1
+item1.ADR;type=WORK;type=pref:;;Moscow
 item1.X-ABADR:tech
 item2.URL;type=pref:loperr.tech
 item2.X-ABLabel:_$!<HomePage>!$_
